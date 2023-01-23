@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0",
+    "title": "General Gymnastics Advanced (Girls)    ",
+    "subtitle": "Ages 6+ (Girls) – 1.5-2hrs",
+    "content": "Girls that have already mastered basic gymnastics skills and are ready for a new challenge will be invited to join the General Gymnastics Advanced classes.These classes focus on the Australian National Level program in Women’s Artistic Gymnastics (WAG). Girls within these classes will begin learning skills and routines for each apparatus (beams, bars, floor and vault) within national levels 1-5, as well as focus on general physical development. Attendance is required only once per week, but more than once is advisable, making this the perfect class for those who are no longer beginners but have busy schedules.In Term 3 of every year, gymnasts are given the opportunity to showcase their hard work in Academy’s largest competition of the year involving several other clubs. Depending on the level, children are also given the opportunity to compete at several regional competitions throughout the year.",
+    "imgSrc": "gen-gym-adv-robertson-1.png"
+  },
+
+  {
+    "id": "1",
+    "title": "Tumbling    ",
+    "subtitle": "Ages 7+ (Girls &Boys) – 1.5 hrs",
+    "content": "Boys and girls who have mastered basic gymnastics skills and have a preference towards being on the floor, trampoline and tumble track will be invited to join the tumbling class.This class is perfect for those yearning to learn how to flip, tumble and spin safely using correct technique. This class focuses on teaching the basics of tumbling as well as nationally recognised levels 1-6. Attendance is required only once per week, with more than once being advisable for quicker development.In Term 3 of every year, ‘tumblers’ who are training skills within the national level program will be given the opportunity to showcase their hard work in Academy’s largest competition of the year involving other clubs. Students of certain competitive levels are also given the opportunity to attend several regional competitions throughout the year.",
+    "imgSrc": "advanced-tumbling-robertson.png"
+  },
+
+  {
+    "id": "2",
+    "title": "Women’s Artistic Gymnastics    ",
+    "subtitle": "Ages 6+ (Girls) 3+ times per week ",
+    "content": "Girls who have mastered basic gymnastics skills and are ready to commit coming multiple times per week will be invited to join the Women’s Artistic Gymnastics (WAG) classes. These classes focus on National Levels 1-7 of the WAG National Level Program in a more formal and competitive setting.In Term 3 of every year, gymnasts are given the opportunity to showcase their hard work in Academy’s largest competition of the year involving other clubs. Depending on the level, children are also given the opportunity to compete at several regional and state competitions throughout the year.",
+
+    "imgSrc": "wag-gym-3-robertson.png"
+  },
+  {
+    "id": "3",
+    "title": "Acrobatic Gymnastics    ",
+    "subtitle": "Ages 6+ (Girls & Boys) – 3+ Times per week",
+    "content": "Boys and girls who have mastered basic gymnastics skills, have the preference and skill ability to work with others, and can commit to coming multiple times per week will be invited to trial this class. In Acrobatic Gymnastics, children must work together in a set group (of 2 or 3) and perform routines consisting of dance, group skills and individual skills. This is a competitive class where children are expected to attend multiple competitions per year. Competitions consist of regional and state level competitions, with Levels 4 and above also required to attend a National Club Championship.",
+    "imgSrc": "acro-gym-robertson.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Elite Acrobatic Gymnastics",
+    "subtitle": "Ages 6+ (Girls & Boys) – 5+ Times per week",
+    "content": "The Elite Acrobatic Gymnastics class is the highest level class offered at Robertson Gymnastics Academy. This class is by special invitational only and is for children who possess the skill level and work ethic required to work at a highly competitive level. Children in this class are required to attend multiple regional and state level competitions, as well as a National Club Championship. Children in this class have a personal goal to compete internationally and represent Australia.",
+    "imgSrc": "elite-adv-robertson.png"
+  }
+]

@@ -1,0 +1,31 @@
+.hero-height {
+    min-height: 900px;
+    opacity: 0;
+
+    transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+
+
+}
+
+.main-hero {
+    animation: mymove 1000ms ease-in alternate;
+    /* background: linear-gradient(
+        rgba(16, 27, 97, 0.49),
+        rgba(16, 27, 97, 0.49)
+      ); */
+}
+
+@keyframes mymove {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+
+
+    }
+}

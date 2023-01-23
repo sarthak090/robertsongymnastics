@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0",
+    "title": "KinderGym (Parent Participation)",
+    "subtitle": "Ages 2-5 (Girls & Boys) – 45min",
+    "content": "Once your child has reached the stage of being able to listen and actively follow basic instructions, they can come try our structured KinderGym class. In this parent-participant class, you are right there on the floor guiding your child along a multitude of different activities, sharing in their joy of learning in their early years. KinderGym is the first stepping stone to allowing children to build their independence and overcome personal obstacles through learning and play. KinderGym aims to improve skills such as coordination, balance and strength in a fun, colourful environment.    ",
+    "imgSrc": "KinderGym2.png"
+  },
+
+  {
+    "id": "1",
+    "title": "Pre-Prep",
+    "subtitle": "Ages 4-5 (Girls & Boys) – 45min",
+    "content": "Pre-Prep is a transition class aimed to aid in the changeover from play-based Kindergym to real gymnastics. This class is for children who have actively progressed through KinderGym, or, are new to gymnastics but are able to work independently. Pre-Prep introduces boys and girls to more formal gymnastics skills and movements through a variety of circuits and apparatus. With the help of our instructors, this class is perfect for allowing pre-schoolers to build upon their new-found confidence at their own pace. Parents are to be in the spectating area for this class, but may be present on the floor nearby if their little one is working through separation anxiety.    ",
+    "imgSrc": "Pre-Prep3.png"
+  },
+
+  {
+    "id": "2",
+    "title": "Prep Gym    ",
+    "subtitle": "Ages 5-6 (Girls & Boys) – 1 hr",
+    "content": "The Prep class is designed for boys and girls who are confident in working independently and being on the floor by themselves. This class is a more fast-paced and harder version of the Pre-Prep class and continues to focus on gymnastics basics whilst still incorporating play and having fun. ‘’Preppies” are challenged through a multitude of activities across various apparatus and circuits, strongly encouraging independent learning and overcoming personal obstacles. They also learn to interact and work alongside their fellow peers!",
+
+    "imgSrc": "prep-gym-robertson-1.png"
+  },
+  {
+    "id": "3",
+    "title": "After Prep    ",
+    "subtitle": "Ages 6-7 (Girls) – 1 hr",
+    "content": "The After Prep class is designed for children who have the maturational and skill development required to work more formally at a young age. This class expands on the skills learnt in the Prep Gym class and instils in children the work ethic required in the next stage of competitive-style classes. Peer interaction is taken to a new level in this class with children at times needing to work together in activities to achieve common goals. This allows children to not only develop their teamwork skills, but also be taught of responsibility and the role they play when working in a group environment.    ",
+    "imgSrc": "after-prep-academy.png"
+  },
+
+  {
+    "id": "4",
+    "title": "General Gymnastics",
+    "subtitle": "Ages 7-13 (Girls & Boys)",
+    "content": "It is never too late to start gymnastics! The general gymnastics class is perfect for primary school-aged children who have never done gymnastics but would like to start. This class introduces boys and girls to basic gymnastic skills and movements across multiple apparatus. General gymnastics aims to challenge and improve their coordination, core strength, body awareness and movement patterns which are not only useful in gymnastics but a multitude of other sports and life activities.    ",
+    "imgSrc": "general-gym-robertson.png"
+  }
+]
